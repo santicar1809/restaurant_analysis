@@ -30,7 +30,6 @@ Here are some sources to get you started:
 
 • https://www.ibge.gov.br
 
-
 ### Part 2
 
 Imaginary Shipping Company (distribution business) currently has 21 locations in Brazil (see Warehouse_Locations.xlsx file in data folder). Each warehouse location can supply kitchen equipment and disposables for restaurants in a 300 Km radius. How many additional warehouse locations does the company need to service 100% of Subway locations, and where should these locations be? Optimize the locations so that the company can build the minimum number of new warehouses to cover the restaurant locations that are currently not serviced.
